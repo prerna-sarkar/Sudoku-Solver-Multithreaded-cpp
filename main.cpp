@@ -63,7 +63,7 @@ int main(int argc, char** argv)
 		return 0;
 	}
 
-	outFile.open("Lab2Prob2.txt", ios_base::app);
+	outFile.open("SolvedPuzzlesOutput.txt", ios_base::app);
 
 	/*
 	main() function should then spawn (numThreads-1) threads calling the function solveSudokuPuzzles().
