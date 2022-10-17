@@ -1,27 +1,6 @@
 # Sudoku-Solver
 Multithreaded Sudoku Solver with file input and output
 
-input text file is of the form:
-Grid 01
-004000000
-000030002
-390700080
-400009001
-209801307
-600200008
-010008053
-900040000
-000000800
-Grid 02
-360020089
-000361000
-000000000
-803000602
-400603007
-607000108
-000000000
-000418000
-970030014
-............
+input text file has multiple puzzles each with a grid name followed by the 9x9 puzzle (next line)
 
 
