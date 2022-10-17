@@ -81,9 +81,4 @@ int main(int argc, char** argv)
 	}
 	inFile.close();
 	outFile.close();
-
-	/*
-	In the main() function, open the output file Lab2Prob2.txt using the command line argument.
-	Use the same format for the output file as in the input file
-	*/
 }
